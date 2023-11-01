@@ -14,7 +14,11 @@ body {
 }
 
 #counter {
+  position: absolute;
   color: white;
   text-align: center;
   vertical-align: baseline;
+  top: 50%;
+  left: 50%;
+  font-size: 64px;
 }
