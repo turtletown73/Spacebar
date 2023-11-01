@@ -7,18 +7,16 @@ body {
   background-color: gray;
   border-radius: 15px;
   margin: auto;
-  width: 300px;
-  height: 100px;
-  top: 50%;
-  left: 50%;
+  width: 30%;
+  height: 10%;
+  top: 45%;
+  left: 35%;
 }
 
 #counter {
   position: absolute;
   color: white;
-  text-align: center;
-  vertical-align: baseline;
-  top: 50%;
-  left: 50%;
-  font-size: 64px;
+  top: 10%;
+  left: 10%;
+  font-size: 80%;
 }
